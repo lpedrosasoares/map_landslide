@@ -1,0 +1,62 @@
+[
+  {
+    "location": "São Sebastião - SP",
+    "name": "São Sebastião",
+    "authors": "Durço et al.",
+    "year": 2023,
+    "links": {
+      "zenodo": null,
+      "paper": null
+    },
+    "coords": {
+      "lat": -23.8,
+      "lng": -45.4
+    },
+    "hasClickAction": true
+  },
+  {
+    "location": "Rolante - RS",
+    "name": "Rolante - RS",
+    "authors": "Quevedo et al.",
+    "year": 2017,
+    "links": {
+      "zenodo": "https://zenodo.org/records/11400988",
+      "paper": "https://zenodo.org/records/11400988"
+    },
+    "coords": {
+      "lat": -29.65,
+      "lng": -50.58
+    },
+    "hasClickAction": true
+  },
+  {
+    "location": "Rio Grande do Sul - RS",
+    "name": "Rio Grande do Sul - RS",
+    "authors": "Clódis et al.",
+    "year": 2024,
+    "links": {
+      "zenodo": null,
+      "paper": null
+    },
+    "coords": {
+      "lat": -30.0346,
+      "lng": -51.2177
+    },
+    "hasClickAction": true
+  },
+  {
+    "location": "Juiz de Fora - MG",
+    "name": "Juiz de Fora - MG",
+    "authors": "Stabile",
+    "year": 2026,
+    "links": {
+      "zenodo": "https://zenodo.org/records/19473303",
+      "paper": null
+    },
+    "coords": {
+      "lat": -30.0346,
+      "lng": -51.2177
+    },
+    "hasClickAction": true
+  }
+]
