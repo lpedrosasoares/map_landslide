@@ -5,8 +5,8 @@
     "authors": "Durço et al.",
     "year": 2023,
     "links": {
-      "zenodo": null,
-      "paper": null
+      "zenodo": "https://zenodo.org/records/11120078",
+      "paper": "https://www.scielo.br/j/bjgeo/a/JdQqXz7nP3BXr7bnv8Z6hnB/?format=html&lang=en"
     },
     "coords": {
       "lat": -23.8,
@@ -35,8 +35,23 @@
     "authors": "Clódis et al.",
     "year": 2024,
     "links": {
-      "zenodo": null,
-      "paper": null
+      "zenodo": "https://zenodo.org/records/15618462",
+      "paper": "https://link.springer.com/article/10.1007/s10346-025-02587-8"
+    },
+    "coords": {
+      "lat": -30.0346,
+      "lng": -51.2177
+    },
+    "hasClickAction": true
+  },
+  {
+    "location": "Rio Grande do Sul - RS",
+    "name": "Rio Grande do Sul - RS",
+    "authors": "Egas et al.",
+    "year": 2024,
+    "links": {
+      "zenodo": "https://zenodo.org/records/13225473",
+      "paper": "https://link.springer.com/article/10.1007/s10346-024-02410-wnull"
     },
     "coords": {
       "lat": -30.0346,
@@ -54,8 +69,8 @@
       "paper": null
     },
     "coords": {
-      "lat": -30.0346,
-      "lng": -51.2177
+      "lat": -21.7642,
+      "lng": -43.3496
     },
     "hasClickAction": true
   }
